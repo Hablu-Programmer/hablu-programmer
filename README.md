@@ -18,7 +18,7 @@ Skills: PYTHON/ BOOTSTRAP/ NODE.JS / REACT / JS / HTML / CSS
 
 - 👨‍💻 All of my projects are available at [https://github.com/hablu-programmer](https://github.com/hablu-programmer)
 
-- 📝 I regularly write articles on [https://habluprogrammer.com/](https://habluprogrammer.com/)
+- 📝 I regularly uploads videos on [https://www.youtube.com/habluprogrammer1](https://www.youtube.com/habluprogrammer1)
 
 - 💬 Ask me about **HTML5, CSS3, JS, Bootstrap**
 
