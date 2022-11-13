@@ -23,12 +23,12 @@ Skills: MERN Stack / Blockchain / AWS / Devops /
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.facebook.com/HabluProgrammers" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tutul.qcsc" height="30" width="40" /></a>
-<a href="https://twitter.com/hablu-programmer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tutul181" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/hablu-programmer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harun181" height="30" width="40" /></a>
-<a href="https://codepen.io/hablu-programmer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="harun181" height="30" width="40" /></a>
+<a href="https://www.facebook.com/HabluProgrammers" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="eshan ahmed ahad hablu programmer" height="30" width="40" /></a>
+<a href="https://twitter.com/hablu-programmer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="eshan ahmed ahad hablu programmer" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/company/hablu-programmers" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hablu programmmer eshan ahmed ahad" height="30" width="40" /></a>
+<a href="https://codepen.io/hablu-programmer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="hablu programmer" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/hablu programmer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="hablu programmer" height="30" width="40" /></a>
-<a href="https://instagram.com/hablu-programmer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tutul_181" height="30" width="40" /></a>
+<a href="https://instagram.com/hablu-programmer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="eshan ahmed ahad hablu programmer" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
