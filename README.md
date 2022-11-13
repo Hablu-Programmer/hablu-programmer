@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Hablu Programmer</h1>
-<h3 align="center">MERN Stack Web Developer and Web Designer.</h3>
+<h3 align="center">MERN Stack & Blockchain Developer</h3>
 
 ![Profile views](https://gpvc.arturio.dev/hablu-programmer) 
 
